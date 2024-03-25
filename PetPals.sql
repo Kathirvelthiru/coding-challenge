@@ -1,0 +1,21 @@
+CREATE DATABASE PetPals;
+CREATE TABLE Pets (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(100) NOT NULL,
+    age INT NOT NULL,
+    breed VARCHAR(100) NOT NULL
+);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
